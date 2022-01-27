@@ -13,5 +13,7 @@ UCLASS()
 class INFLEARNPRACTICE01_API AMyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+	AMyGameModeBase();
 	
 };
